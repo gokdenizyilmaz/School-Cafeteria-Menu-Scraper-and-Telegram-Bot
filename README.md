@@ -7,9 +7,8 @@ The School Cafeteria Menu Scraper and Telegram Bot project is designed to automa
 
 ## Features
 1. Web Scraping with BeautifulSoup: The project utilizes BeautifulSoup, a Python library, to extract the menu information from the school cafeteria website. It retrieves the daily menu items, including breakfast, lunch, and dinner options.
-2. Telegram Bot Integration with Pyrogram: The project integrates with the Telegram platform using Pyrogram to provide a user-friendly interface for accessing the cafeteria menu. Users can interact with the Telegram bot to request the menu for a specific day or get the menu for the current day.
+2. Telegram Bot Integration with Pyrogram: The project integrates with the Telegram platform using Pyrogram to provide a user-friendly interface for accessing the cafeteria menu. Users can interact with the Telegram bot to request the menu for a specific day .
 3. Daily Menu Updates: The bot automatically fetches the latest menu from the cafeteria website every day, ensuring that users have access to the most up-to-date information.
-4. Customization Options: The bot allows users to customize their menu preferences, such as filtering vegetarian or special diet options, to receive personalized menu suggestions.
 
 ## Technologies Used
 - Python: The project is implemented using the Python programming language, which offers a rich set of libraries and tools for web scraping and Telegram bot development.
